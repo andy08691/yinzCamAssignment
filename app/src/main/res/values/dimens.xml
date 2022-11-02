@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="score_text">32dp</dimen>
+    <dimen name="team_name_text">24sp</dimen>
+    <dimen name="team_logo">20dp</dimen>
+    <dimen name="bye_text">40sp</dimen>
+    <dimen name="score_container_min_height">200dp</dimen>
+    <dimen name="regular_container">60dp</dimen>
+    <dimen name="regular_text">20sp</dimen>
+    <dimen name="normal_text">14sp</dimen>
+</resources>
